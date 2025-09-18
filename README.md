@@ -3,11 +3,14 @@ A common set of basic programs in every major programming language (incomplete l
 
 ### List of languages so far:
 
-- C
 - C++
+- C
 - C#
+- Go
 - Java
 - JavaScript
+- Perl
 - PHP
 - Python
 - Rust
+- Visual Basic
